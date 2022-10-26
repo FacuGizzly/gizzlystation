@@ -11,14 +11,22 @@
 	<title>Gizzly Station</title>
 	<atom:link href="https://facugizzly.github.io/gizzlystation/feed/" rel="self" type="application/rss+xml" />
 	<link>https://facugizzly.github.io/gizzlystation</link>
-	<description>go boom!</description>
+	<description></description>
 	<lastBuildDate>Sun, 21 Aug 2022 23:27:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://facugizzly.github.io/gizzlystation/wp-content/uploads/2022/10/George_ID.png</url>
+	<title>Gizzly Station</title>
+	<link>https://facugizzly.github.io/gizzlystation</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://facugizzly.github.io/gizzlystation/hello-world/</link>

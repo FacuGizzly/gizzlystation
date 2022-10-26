@@ -10,12 +10,12 @@
 	Comments on: Hello world!	</title>
 	<atom:link href="https://facugizzly.github.io/gizzlystation/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://facugizzly.github.io/gizzlystation/hello-world/</link>
-	<description>go boom!</description>
+	<description></description>
 	<lastBuildDate>Sun, 21 Aug 2022 23:27:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
