@@ -11,11 +11,11 @@
 	<atom:link href="https://facugizzly.github.io/gizzlystation/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://facugizzly.github.io/gizzlystation</link>
 	<description></description>
-	<lastBuildDate>Sun, 30 Oct 2022 00:08:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Nov 2022 00:08:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
